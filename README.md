@@ -1,4 +1,4 @@
-GitProject
+﻿GitProject
 ==========
 
 GitProject for class demo
@@ -15,4 +15,5 @@ wwww
 2.HIHI2.edied
 >>>>>>> 4c22ad5627aae5fc55e14e09df8bc4aa955c4654
 
-一堆衝突wwwwww
+一堆衝突wwwwww 
+OHO
